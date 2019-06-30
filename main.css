@@ -60,3 +60,7 @@
   text-align: right;
   width: 50%;
 }
+
+.padded {
+  padding: 20px;
+}
