@@ -1,0 +1,18 @@
+:root {
+
+  --c1: #433e49;
+  --c2: #928490;
+  --c3: #dbc1ad;
+  --c4: #f3e8eb;
+}
+
+a:link {
+  color: var(--c4);
+}
+a:hover {
+  font-size: 1.5em;
+  color: var(--c3);
+}
+a:active {
+  color: var(--c1);
+}
