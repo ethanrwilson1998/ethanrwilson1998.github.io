@@ -1,0 +1,55 @@
+h1 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 40px;
+	word-spacing: -5px;
+	font-weight: 700;
+	font-variant: small-caps;
+}
+
+h2 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 36px;
+	word-spacing: -3px;
+	font-weight: 400;
+}
+
+h3 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 26px;
+	letter-spacing: -0.4px;
+	word-spacing: -2px;
+	font-weight: 400;
+}
+
+h4 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 22px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	font-weight: 700;
+	font-variant: small-caps;
+}
+
+h5 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	font-weight: 400;
+}
+
+p {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 18px;
+  letter-spacing: .5px;
+  word-spacing: 2px;
+  font-weight: 400;
+}
+
+text {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 18px;
+  letter-spacing: .5px;
+  word-spacing: 2px;
+  font-weight: 400;
+}

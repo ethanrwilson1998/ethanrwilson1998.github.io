@@ -1,0 +1,39 @@
+:root {
+
+  --c1: #433e49;
+  --c2: #928490;
+  --c3: #dbc1ad;
+  --c4: #f3e8eb;
+}
+
+.background1 {
+	background-color: var(--c1);
+}
+
+.background2 {
+	background-color: var(--c2);
+}
+
+.background3 {
+	background-color: var(--c3);
+}
+
+.background4 {
+	background-color: var(--c4);
+}
+
+.text1 {
+	color: var(--c1);
+}
+
+.text2 {
+	color: var(--c2);
+}
+
+.text3 {
+	color: var(--c3);
+}
+
+.text4 {
+	color: var(--c4);
+}
