@@ -1,0 +1,34 @@
+:root {
+  --white: #eeeeee;
+  --black: #1f1f1f;
+  --dark_blue: #002054;
+  --light_blue: #2e7eff;
+  --dark_green: #004707;
+  --light_green: #48f059;
+}
+
+a:link {
+  color: var(--white);
+}
+
+a:visited {
+	color: var(--white);
+}
+
+a.green:hover {
+  font-size: 1.2em;
+  color: var(--light_green);
+}
+
+a.blue:hover {
+  font-size: 1.2em;
+  color: var(--light_blue);
+}
+
+a:hover {
+  font-size: 1.2em;
+  color: var(--white);
+}
+a:active {
+  color: var(--white);
+}
