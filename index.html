@@ -1,31 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-
-    <base href="{{ ethanrwilson1998.github.io }}/">
-
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="shortcut icon" href="">
-
-    <script src="js/jquery-3.4.1.min.js"></script>
-
-    <script>
-      $(document).ready(function(){
-        var includes = $('[data-include]');
-        jQuery.each(includes, function(){
-          var file = $(this).data('include') + '.html';
-          $(this).load(file);
-        });
-      });
-    </script>
-
+    <script src="/js/dropdown.js"></script>
   </head>
 
-  <header>
-    <div data-include="/html/top_bar"></div>
-  </header>
+  
 
   <body class="white_bg">
+
+    <header>
+      <div w3-include-html="/html/top_bar.html"></div>
+    </header>
 
     <div style="height: 150px">&nbsp;</div>
     
